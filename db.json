@@ -1,0 +1,18 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jose Ignacio",
+      "email": "pulygarcia09@gmail.com",
+      "telefono": "12345567778",
+      "empresa": "Software company",
+      "id": 1
+    },
+    {
+      "nombre": "Pepito Fernandez",
+      "email": "pepe@gmail.com",
+      "telefono": "223323323323",
+      "empresa": "Antonio banderas",
+      "id": 2
+    }
+  ]
+}
